@@ -18,7 +18,7 @@ const AboutSection = () => {
       <section className='slice slice-feature bleed grid md:grid-cols-2 gap-12 mx-20'>
       <div className='flex flex-col justify-center space-y-2'>
           <h1 className='text-6xl font-bold font-barrio'>WE ARE A COLLECTIVE SOLUTION</h1>
-          <p>SongCollabDAO's contracts will form a template for a distributed artistic collective, a system of  formalized distribution and IP rights that are democratic, automated, and profitable.</p>
+          <p>Our DAO structure for a distributed artistic collective, a system of  formalized distribution and IP rights that are democratic, automated, and profitable.</p>
         </div>
         <div className='flex flex-col justify-center space-y-2'>
           <h1 className='text-6xl font-bold font-barrio'>CREATE TOGETHER AND BENEFIT TOGETHER</h1>
