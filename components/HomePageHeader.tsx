@@ -6,10 +6,10 @@ import TwitterLogo from '../public/twittericon.svg'
 import DiscordLogo from '../public/discordlogo.svg'
 import InstaLogo from '../public/instagramlogo.svg'
 
-const NavHeader = () => {
+const HomePageHeader = () => {
     return(
         <>
-        <header className='bleed grid grid-cols-5 fixed top-0 inset-x-0 h-20 z-30 bg-red-400 bg-opacity-50 backdrop-blur border-t-4 border-black'>
+        <header className='bleed grid grid-cols-5 fixed top-0 inset-x-0 h-20 z-30 bg-white bg-opacity-50 backdrop-blur border-t-4 border-black'>
           <div className='flex items-center'>
             <Image
               src={Logo}
@@ -65,4 +65,4 @@ const NavHeader = () => {
     )
 }
 
-export default NavHeader;
+export default HomePageHeader;

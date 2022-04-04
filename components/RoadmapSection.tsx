@@ -11,7 +11,7 @@ const RoadMapSection = () => {
           <div className='container mx-auto space-y-16 mt-16'>
             <div className='max-max-w-screen-xl mx-auto text-center space-y-4'>
               <div className='max-w-xl mx-auto bg-gray-900 rounded-full overflow-hidden'>
-                <div className='bg-red-400 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '25%' }}>
+                <div className='bg-orange-100 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '25%' }}>
                   25%
                 </div>
               </div>
@@ -21,7 +21,7 @@ const RoadMapSection = () => {
             </div>
             <div className='max-max-w-screen-xl mx-auto text-center space-y-4'>
               <div className='max-w-xl mx-auto bg-gray-900 rounded-full overflow-hidden'>
-                <div className='bg-red-400 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '50%' }}>
+                <div className='bg-orange-100 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '50%' }}>
                   50%
                 </div>
               </div>
@@ -31,7 +31,7 @@ const RoadMapSection = () => {
             </div>
             <div className='max-max-w-screen-xl mx-auto text-center space-y-4'>
               <div className='max-w-xl mx-auto bg-gray-900 rounded-full overflow-hidden'>
-                <div className='bg-red-400 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '75%' }}>
+                <div className='bg-orange-100 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '75%' }}>
                   75%
                 </div>
               </div>
@@ -41,7 +41,7 @@ const RoadMapSection = () => {
             </div>
             <div className='max-max-w-screen-xl mx-auto text-center space-y-4'>
               <div className='max-w-xl mx-auto bg-gray-900 rounded-full overflow-hidden'>
-                <div className='bg-red-400 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '100%' }}>
+                <div className='bg-orange-100 text-xs font-medium text-black text-center p-0.5 leading-none rounded-l-full' style={{ width: '100%' }}>
                   100%
                 </div>
               </div>
