@@ -22,7 +22,7 @@ const AboutSection = () => {
         </div>
         <div className='flex flex-col justify-center space-y-2'>
           <h1 className='text-6xl font-bold font-barrio'>CREATE TOGETHER AND BENEFIT TOGETHER</h1>
-          <p>DEMOCRATICALLY decided & codified song ownership rules take the guesswork and contention out of IP.</p>
+          <p>DEMOCRATICALLY decided and codified song ownership rules take the guesswork and contention out of IP.</p>
         </div>
       </section>
     </>
