@@ -1,0 +1,274 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220408T140000Z
+DTEND:20220408T150000Z
+DTSTAMP:20220405T123723Z
+ORGANIZER;CN=Ang Kevin:mailto:ang@polygon.technology
+UID:3r5ne8p1vvv3hma29njq1i2g64@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dominichackett@gmail.com;X-NUM-GUESTS=0:mailto:dominichackett@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sooryalakshmanan04@gmail.com;X-NUM-GUESTS=0:mailto:sooryalakshmanan
+ 04@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=justinzuccon@gmail.com;X-NUM-GUESTS=0:mailto:justinzuccon@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=joanasiimwe15@gmail.com;X-NUM-GUESTS=0:mailto:joanasiimwe15@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ohaegbulamfrank@gmail.com;X-NUM-GUESTS=0:mailto:ohaegbulamfrank@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=infinitumcubed@gmail.com;X-NUM-GUESTS=0:mailto:infinitumcubed@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michele.imbimbo@stargraph.it;X-NUM-GUESTS=0:mailto:michele.imbimbo@
+ stargraph.it
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=valoriabeau610@gmail.com;X-NUM-GUESTS=0:mailto:valoriabeau610@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=emin4ik1993@gmail.com;X-NUM-GUESTS=0:mailto:emin4ik1993@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=osualasamuel@gmail.com;X-NUM-GUESTS=0:mailto:osualasamuel@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=douglengyel33@gmail.com;X-NUM-GUESTS=0:mailto:douglengyel33@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=raj@creatoros.co;X-NUM-GUESTS=0:mailto:raj@creatoros.co
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dee@gamecredits.org;X-NUM-GUESTS=0:mailto:dee@gamecredits.org
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ewuosoolusesi@gmail.com;X-NUM-GUESTS=0:mailto:ewuosoolusesi@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abdulateefakinola@gmail.com;X-NUM-GUESTS=0:mailto:abdulateefakinola
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gyanlakshmi@gmail.com;X-NUM-GUESTS=0:mailto:gyanlakshmi@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=prismich1999@gmail.com;X-NUM-GUESTS=0:mailto:prismich1999@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=steve.baum88@gmail.com;X-NUM-GUESTS=0:mailto:steve.baum88@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=richardoluwo50@gmail.com;X-NUM-GUESTS=0:mailto:richardoluwo50@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=texascane@gmail.com;X-NUM-GUESTS=0:mailto:texascane@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mikhailbaynes@gmail.com;X-NUM-GUESTS=0:mailto:mikhailbaynes@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Sebastiano Cataudo;X-NUM-GUESTS=0:mailto:sebastiano@polygon.technol
+ ogy
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=twenx4@gmail.com;X-NUM-GUESTS=0:mailto:twenx4@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hellodejisol@gmail.com;X-NUM-GUESTS=0:mailto:hellodejisol@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ornella.vallana@gmail.com;X-NUM-GUESTS=0:mailto:ornella.vallana@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lawrenceaniawana@gmail.com;X-NUM-GUESTS=0:mailto:lawrenceaniawana@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=littrellperry96@gmail.com;X-NUM-GUESTS=0:mailto:littrellperry96@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=javonjames220@gmail.com;X-NUM-GUESTS=0:mailto:javonjames220@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=plannetbusiness@gmail.com;X-NUM-GUESTS=0:mailto:plannetbusiness@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mdb1710@gmail.com;X-NUM-GUESTS=0:mailto:mdb1710@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sidsel.rytter.loschenkohl@gmail.com;X-NUM-GUESTS=0:mailto:sidsel.ry
+ tter.loschenkohl@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=0xdinoeggs@gmail.com;X-NUM-GUESTS=0:mailto:0xdinoeggs@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=npiacun@gmail.com;X-NUM-GUESTS=0:mailto:npiacun@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hello@sovcoach.com;X-NUM-GUESTS=0:mailto:hello@sovcoach.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zckok717@gmail.com;X-NUM-GUESTS=0:mailto:zckok717@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=izadimrantan@gmail.com;X-NUM-GUESTS=0:mailto:izadimrantan@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ridsuteri@gmail.com;X-NUM-GUESTS=0:mailto:ridsuteri@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=theaidanb@gmail.com;X-NUM-GUESTS=0:mailto:theaidanb@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abrahammugisha401@gmail.com;X-NUM-GUESTS=0:mailto:abrahammugisha401
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rocky2strong@gmail.com;X-NUM-GUESTS=0:mailto:rocky2strong@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=robin.rrt123@gmail.com;X-NUM-GUESTS=0:mailto:robin.rrt123@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jj@quazi.io;X-NUM-GUESTS=0:mailto:jj@quazi.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=houston1530@gmail.com;X-NUM-GUESTS=0:mailto:houston1530@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=allseeing1dog@gmail.com;X-NUM-GUESTS=0:mailto:allseeing1dog@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=davidpius95@gmail.com;X-NUM-GUESTS=0:mailto:davidpius95@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jugal758@gmail.com;X-NUM-GUESTS=0:mailto:jugal758@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=justyouandickson@gmail.com;X-NUM-GUESTS=0:mailto:justyouandickson@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=preetidevsang@gmail.com;X-NUM-GUESTS=0:mailto:preetidevsang@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=onoseogaga@gmail.com;X-NUM-GUESTS=0:mailto:onoseogaga@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wilmer.rodriguez781@gmail.com;X-NUM-GUESTS=0:mailto:wilmer.rodrigue
+ z781@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sp.octone@gmail.com;X-NUM-GUESTS=0:mailto:sp.octone@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=gehlotvansh111@gmail.com;X-NUM-GUESTS=0:mailto:gehlotvansh111@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shubhamkukreti204@gmail.com;X-NUM-GUESTS=0:mailto:shubhamkukreti204
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mksharma9282@gmail.com;X-NUM-GUESTS=0:mailto:mksharma9282@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=derbygoldeth@gmail.com;X-NUM-GUESTS=0:mailto:derbygoldeth@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ategyekajoel10@gmail.com;X-NUM-GUESTS=0:mailto:ategyekajoel10@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=malikdhruv1994@gmail.com;X-NUM-GUESTS=0:mailto:malikdhruv1994@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lscaper@gmail.com;X-NUM-GUESTS=0:mailto:lscaper@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yashygkf@gmail.com;X-NUM-GUESTS=0:mailto:yashygkf@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=josefrosenberg1@hotmail.com;X-NUM-GUESTS=0:mailto:josefrosenberg1@h
+ otmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=devanshkajve123@gmail.com;X-NUM-GUESTS=0:mailto:devanshkajve123@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adinevikas925@gmail.com;X-NUM-GUESTS=0:mailto:adinevikas925@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mkudev@gmail.com;X-NUM-GUESTS=0:mailto:mkudev@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adrianlg55@gmail.com;X-NUM-GUESTS=0:mailto:adrianlg55@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dantwesigye4@gmail.com;X-NUM-GUESTS=0:mailto:dantwesigye4@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ahimbisibweallan62@gmail.com;X-NUM-GUESTS=0:mailto:ahimbisibweallan
+ 62@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=pushpit07@gmail.com;X-NUM-GUESTS=0:mailto:pushpit07@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nunomcgoncalves2005@gmail.com;X-NUM-GUESTS=0:mailto:nunomcgoncalves
+ 2005@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=amaansayyad2001@gmail.com;X-NUM-GUESTS=0:mailto:amaansayyad2001@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=niwagabajoab1000@gmail.com;X-NUM-GUESTS=0:mailto:niwagabajoab1000@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=edwardsdavid913@gmail.com;X-NUM-GUESTS=0:mailto:edwardsdavid913@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tanmays039@gmail.com;X-NUM-GUESTS=0:mailto:tanmays039@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=joydeepsingha68@gmail.com;X-NUM-GUESTS=0:mailto:joydeepsingha68@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=chriskongofficial0406@gmail.com;X-NUM-GUESTS=0:mailto:chriskongoffi
+ cial0406@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=1822sharma@gmail.com;X-NUM-GUESTS=0:mailto:1822sharma@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vin.lim.yh@gmail.com;X-NUM-GUESTS=0:mailto:vin.lim.yh@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michealmdm319@gmail.com;X-NUM-GUESTS=0:mailto:michealmdm319@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=m@crpmba.com;X-NUM-GUESTS=0:mailto:m@crpmba.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=spritelings@gmail.com;X-NUM-GUESTS=0:mailto:spritelings@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=atharvapaliwal7@gmail.com;X-NUM-GUESTS=0:mailto:atharvapaliwal7@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mcdowellat@gmail.com;X-NUM-GUESTS=0:mailto:mcdowellat@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Ang Kevin;X-NUM-GUESTS=0:mailto:ang@polygon.technology
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Muskan Kalra;X-NUM-GUESTS=0:mailto:muskan@polygon.technology
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Jonathan Pereira;X-NUM-GUESTS=0:mailto:jonathan@polygon.technology
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Vishal Pandit;X-NUM-GUESTS=0:mailto:vishal@polygon.technology
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=golubich@hvergelmir.de;X-NUM-GUESTS=0:mailto:golubich@hvergelmir.de
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=apollinariyavv@yandex.ru;X-NUM-GUESTS=0:mailto:apollinariyavv@yande
+ x.ru
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zhixuan_wang@outlook.de;X-NUM-GUESTS=0:mailto:zhixuan_wang@outlook.
+ de
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=xed815252657@163.com;X-NUM-GUESTS=0:mailto:xed815252657@163.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=art@zackenny.com;X-NUM-GUESTS=0:mailto:art@zackenny.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/oqd-ntux-qia
+X-MICROSOFT-CDO-OWNERAPPTID:-2121996733
+CREATED:20220405T121444Z
+DESCRIPTION:<html-blob><u></u><u></u><p><b>Heard you wanted EXCLUSIVE alpha
+ \, Polygon Advocates fam?</b></p><p>Introducing <b>#PolygonAlpha</b> series
+ \, where you as advocates are exclusively invited to learn the latest polyg
+ on tech\, news\, and inside alpha! Come join us at 2pm UTC this Friday\, be
+ fore our usual bi-weekly call as this time we have our frens from the COPE 
+ studios team in Polygon to share more about COPE.</p><p><b>Time: </b>2pm UT
+ C</p><p><b>Where: </b>Zoom:</p><p>Join Zoom Meeting link:<br><a href="https
+ ://us02web.zoom.us/j/81859185151?pwd=cFdxNEczTWdTMlJSazFqU2w1UG4yUT09">http
+ s://us02web.zoom.us/j/81859185151?pwd=cFdxNEczTWdTMlJSazFqU2w1UG4yUT09</a><
+ br><br>Meeting ID: 818 5918 5151<br>Passcode: 842206<br></p><p><br></p><p><
+ b>What’s COPE?</b></p><p>Little do people know that they're a new cool team
+  in Polygon that tackles all the 'moonshot projects'! <a href="https://www.
+ youtube.com/watch?v=1md9q37Cl-4">https://www.youtube.com/watch?v=1md9q37Cl-
+ 4</a></p><p>Like a “Google X in Web3”.</p><p>They'll share what they mean b
+ y being the 'moonshot factory in Polygon'\, value in pursuing such moonshot
+ s\, more about design thinking in Web3\, and some potential alpha for advoc
+ ates!&nbsp\;</p><p>Heads up! Don't say I didn't warn you! Many stuff discus
+ sed would be ALPHAAA !&nbsp\;</p><p>Share &amp\; tweet your learnings with 
+ #PolygonAlpha throughout the session!</p><p><br></p><p>DM me on discord (iK
+ evin#5279) or by email ang@polygon.technology if you have any questions!</p
+ ><u></u><u></u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of th
+ e description.\n\nThis event has a video call.\nJoin: https://meet.google.c
+ om/oqd-ntux-qia\n(US) +1 209-680-6434 PIN: 521977327#\nView more phone numb
+ ers: https://tel.meet/oqd-ntux-qia?pin=2648450929245&hs=7\n\nView your even
+ t at https://calendar.google.com/calendar/event?action=VIEW&eid=M3I1bmU4cDF
+ 2dnYzaG1hMjluanExaTJnNjQgbWRiMTcxMEBt&tok=MjIjYW5nQHBvbHlnb24udGVjaG5vbG9ne
+ WVjYjgyNGJkYmFiOWUzNmIwNzM0M2RkNmYyNDM5OTUwMmJkNzIyZDY&ctz=America%2FNew_Yo
+ rk&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220405T123717Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#PolygonAlpha <> COPE Studios for Advocates
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

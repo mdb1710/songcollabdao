@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220408T140000Z
+DTEND:20220408T153000Z
+DTSTAMP:20220405T104050Z
+ORGANIZER;CN=alex@oasisaccelerate.com:mailto:alex@oasisaccelerate.com
+UID:2gd9104pvc48f5f6hfpuhevlmj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=uzair@betterdata.ai;X-NUM-GUESTS=0:mailto:uzair@betterdata.ai
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michael.lawal@sendit.money;X-NUM-GUESTS=0:mailto:michael.lawal@send
+ it.money
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ncoonrod@dogmage.com;X-NUM-GUESTS=0:mailto:ncoonrod@dogmage.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=michelangelo.frigo1@gmail.com;X-NUM-GUESTS=0:mailto:michelangelo.fr
+ igo1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ali.rizvi.mck@gmail.com;X-NUM-GUESTS=0:mailto:ali.rizvi.mck@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=libertasdao@gmail.com;X-NUM-GUESTS=0:mailto:libertasdao@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mdb1710@gmail.com;X-NUM-GUESTS=0:mailto:mdb1710@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maxime@rosart.io;X-NUM-GUESTS=0:mailto:maxime@rosart.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mail@alimsyed.com;X-NUM-GUESTS=0:mailto:mail@alimsyed.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sidsel@valaxy.io;X-NUM-GUESTS=0:mailto:sidsel@valaxy.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adi@appliedblockchain.com;X-NUM-GUESTS=0:mailto:adi@appliedblockcha
+ in.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maged@valoro.xyz;X-NUM-GUESTS=0:mailto:maged@valoro.xyz
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alex@forsale.finance;X-NUM-GUESTS=0:mailto:alex@forsale.finance
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=operations@defibet.house;X-NUM-GUESTS=0:mailto:operations@defibet.h
+ ouse
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kevin@betterdata.ai;X-NUM-GUESTS=0:mailto:kevin@betterdata.ai
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=juliehendy@sendit.money;X-NUM-GUESTS=0:mailto:juliehendy@sendit.mon
+ ey
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zdkellar@dogmage.com;X-NUM-GUESTS=0:mailto:zdkellar@dogmage.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=christopher.lovejoy1@gmail.com;X-NUM-GUESTS=0:mailto:christopher.lo
+ vejoy1@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=thomas@rosart.io;X-NUM-GUESTS=0:mailto:thomas@rosart.io
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anna@appliedblockchain.com;X-NUM-GUESTS=0:mailto:anna@appliedblockc
+ hain.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vito@forsale.finance;X-NUM-GUESTS=0:mailto:vito@forsale.finance
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=cmolumby@dogmage.com;X-NUM-GUESTS=0:mailto:cmolumby@dogmage.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aaron@forsale.finance;X-NUM-GUESTS=0:mailto:aaron@forsale.finance
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kamil@oasisaccelerate.com;X-NUM-GUESTS=0:mailto:kamil@oasisaccelera
+ te.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=charlotte@oasisaccelerate.com;X-NUM-GUESTS=0:mailto:charlotte@oasis
+ accelerate.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=alex@oasisaccelerate.com;X-NUM-GUESTS=0:mailto:alex@oasisaccelerate.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=soares@proofmarked.com;X-NUM-GUESTS=0:mailto:soares@proofmarked.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=m.deghaim@castalise.com;X-NUM-GUESTS=0:mailto:m.deghaim@castalise.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/jqd-orua-tgj
+X-MICROSOFT-CDO-OWNERAPPTID:-646615926
+CREATED:20220405T104045Z
+DESCRIPTION:Alex Potter is inviting you to a scheduled Zoom meeting.\n\nTop
+ ic: Oasis - MetaMind Accelerator: Social II\nTime: Apr 8\, 2022 03:00 PM Lo
+ ndon\n\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/85014011911\n\nMeeting
+  ID: 850 1401 1911\nOne tap mobile\n+17207072699\,\,85014011911# US (Denver
+ )\n+12532158782\,\,85014011911# US (Tacoma)\n\nDial by your location\n     
+    +1 720 707 2699 US (Denver)\n        +1 253 215 8782 US (Tacoma)\n      
+   +1 301 715 8592 US (Washington DC)\n        +1 312 626 6799 US (Chicago)\
+ n        +1 346 248 7799 US (Houston)\n        +1 646 558 8656 US (New York
+ )\nMeeting ID: 850 1401 1911\nFind your local number: https://us06web.zoom.
+ us/u/kdn8j5cWLr\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/jqd-orua-
+ tgj\n(GB) +44 20 3910 5399 PIN: 880249818#\nView more phone numbers: https:
+ //tel.meet/jqd-orua-tgj?pin=8347845581717&hs=7\n\nView your event at https:
+ //calendar.google.com/calendar/event?action=VIEW&eid=MmdkOTEwNHB2YzQ4ZjVmNm
+ hmcHVoZXZsbWogbWRiMTcxMEBt&tok=MjQjYWxleEBvYXNpc2FjY2VsZXJhdGUuY29tZWEwNDA5
+ YjM0MDdlNWU2NDE4YzMzNGMzNGVkMGRhMWNjZTliOTExMg&ctz=America%2FNew_York&hl=en
+ &es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220405T104047Z
+LOCATION:https://us06web.zoom.us/j/85014011911
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Oasis - MetaMind Accelerator: Social II
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
